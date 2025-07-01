@@ -182,6 +182,13 @@
         "PRIMARY_700": "#0f0f10",
         "PRIMARY_800": "#0C0B0C"
     },
+
+    "background": {
+        "blur": 0.1,
+        "url": "https://i.imgur.com/RXPUGlD.jpeg",
+        "alpha": 0.4
+    },
+    
     "spec": 2,
     "plus": {
         "version": 0,
